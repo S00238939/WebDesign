@@ -1,0 +1,26 @@
+body{
+    background-color: darkgrey;
+}
+header{
+    font-size: large;
+    background-color: cyan;
+}
+footer{
+    text-align: center;
+    background-color: #333; ;
+    color: cyan;
+    padding: 10px;
+}
+nav{
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+.fleft{
+    float: left;
+}
+a{
+    text-decoration: none;
+    color: cyan;
+    font-size: large;
+}
