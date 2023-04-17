@@ -25,20 +25,18 @@ nav{
 .fleft{
     float: left;
 }
-.fright{
-    float: right;
-}
 a{
     border: cyan;
-    padding: 10%;
+    padding: 5%;
     text-decoration: none;
     color: cyan;
     font-size: large;
 }
 h1{
-    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
-    text-decoration: underline;
     margin: 0;
+    margin-left: 5%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
 }
 h2{
     text-align: center;
