@@ -1,26 +1,45 @@
 body{
+    margin: 0;
+    background-image: url("../images/ByfrostWebsiteBackground.jpg");
     background-color: darkgrey;
+    overflow: auto;
 }
 header{
-    font-size: large;
+    font-size: medium;
     background-color: cyan;
 }
 footer{
     text-align: center;
-    background-color: #333; ;
-    color: cyan;
-    padding: 10px;
+    background-color: cyan;
 }
 nav{
     background-color: #333;
     text-align: center;
-    padding: 10px;
+    padding: 5px;
 }
 .fleft{
     float: left;
 }
 a{
+    border: cyan;
+    padding: 10%;
     text-decoration: none;
     color: cyan;
     font-size: large;
+}
+h1{
+    text-decoration: underline;
+    margin: 0;
+}
+h2{
+    text-align: center;
+    margin: 0;
+}
+h3{
+    text-align: center;
+    margin: 0;
+}
+p{
+    text-align: center;
+    margin: 0;
 }
