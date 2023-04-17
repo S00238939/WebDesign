@@ -9,6 +9,11 @@ header{
     background-color: cyan;
 }
 footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    clear: both;
     text-align: center;
     background-color: cyan;
 }
@@ -20,6 +25,9 @@ nav{
 .fleft{
     float: left;
 }
+.fright{
+    float: right;
+}
 a{
     border: cyan;
     padding: 10%;
@@ -28,6 +36,7 @@ a{
     font-size: large;
 }
 h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
     text-decoration: underline;
     margin: 0;
 }
@@ -42,4 +51,12 @@ h3{
 p{
     text-align: center;
     margin: 0;
+}
+.g{
+    margin-left: 50%;
+}
+.m{
+    padding-left: 16px;
+    padding-top: 16px;
+    float: left;
 }
